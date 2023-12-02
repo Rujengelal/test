@@ -1,0 +1,47 @@
+Category,Hedis Measures,IVR
+Prevention and Screening,Weight Assessment and Counseling for Nutrition and Physical Activity for Children/ Adolescents,What is your child's current height and weight? Are you aware of any recent changes in their growth or weight?
+Prevention and Screening,Weight Assessment and Counseling for Nutrition and Physical Activity for Children/ Adolescents,"Have there been any discussions or recommendations from the healthcare provider regarding your child's weight, nutrition, or physical activity that you remember from recent visits?"
+Prevention and Screening,Childhood Immunization Status,"Has your child received vaccines like DTaP (diphtheria, tetanus, and pertussis), MMR (measles, mumps, and rubella), and IPV (polio) as per the recommended schedule?"
+Prevention and Screening,Childhood Immunization Status,Can you confirm if your child has received the Hepatitis B vaccine and the dates of administration?
+Prevention and Screening,Immunizations for Adolescents,"Has your adolescent received the HPV (human papillomavirus) vaccine series, and if yes, have they completed the recommended doses?"
+Prevention and Screening,Immunizations for Adolescents,"Has your adolescent received the Tdap (tetanus, diphtheria, and pertussis) vaccine recently or according to the recommended schedule?"
+Prevention and Screening,Lead Screening in Children,"Has your child undergone lead screening tests recently? If so, when was the most recent test conducted?"
+Prevention and Screening,Lead Screening in Children,Has your child been tested for lead exposure during routine healthcare visits in the past year?
+Prevention and Screening,Cervical Cancer ScreeningCCS,"Have you undergone a cervical cancer screening (Pap test) in the past few years? If so, when was your most recent screening?"
+Prevention and Screening,Cervical Cancer ScreeningCCS,"Have you received the HPV (human papillomavirus) test along with your cervical cancer screening, if recommended for your age group?"
+Prevention and Screening,Colorectal Cancer Screening,"Have you undergone any colorectal cancer screening tests, such as a colonoscopy, sigmoidoscopy, or stool-based tests, in the past few years?"
+Prevention and Screening,Colorectal Cancer Screening,Have you experienced any symptoms or changes that might prompt additional colorectal cancer screening?
+Prevention and Screening,Chlamydia Screening in Women,Can you recall when was your most recent Chlamydia screening performed?
+Prevention and Screening,Chlamydia Screening in Women,Are you aware of any potential risk factors that might prompt more frequent Chlamydia screening?
+Prevention and Screening,Care for Older Adults,Have you had a comprehensive review of your medications within the past year?
+Prevention and Screening,Care for Older Adults,Have you undergone any assessments or discussions related to pain management during your healthcare visits in the past year?
+Prevention and Screening,"Oral Evaluation, Dental Services",Can you recall the date of your most recent dental visit or oral examination?
+Prevention and Screening,"Oral Evaluation, Dental Services",Have you experienced any oral pain or dental problems since your last visit that required attention?
+Prevention and Screening,Topical Fluoride for Children,Has your child received topical fluoride treatments at their dental visits in the past year?
+Prevention and Screening,Topical Fluoride for Children,Were there specific recommendations or discussions about topical fluoride treatments for your child's dental health during recent dental visits?
+Respiratory Conditions,Appropriate Testing for Pharyngitis,Have you undergone appropriate testing as recommended by your healthcare provider for your recent throat discomfort or sore throat?
+Respiratory Conditions,Appropriate Testing for Pharyngitis,Did you receive the necessary tests suggested by your doctor to diagnose your recent throat symptoms appropriately?
+Respiratory Conditions,Use of Spirometry Testing in the Assessment and Diagnosis of COPD,Have you undergone spirometry testing as part of the assessment or diagnosis process for any respiratory symptoms or breathing difficulties?
+Respiratory Conditions,Use of Spirometry Testing in the Assessment and Diagnosis of COPD,Did your healthcare provider use spirometry testing during your assessment or diagnosis for any potential chronic respiratory conditions?
+Respiratory Conditions,Pharmacotherapy Management of COPD Exacerbation,Have you received appropriate medication or treatment for managing COPD exacerbations as advised by your healthcare provider?
+Respiratory Conditions,Pharmacotherapy Management of COPD Exacerbation,Did your doctor provide medications or therapies to address COPD exacerbations during your recent respiratory distress episodes?
+Respiratory Conditions,Asthma Medication Ratio,Have you consistently used your prescribed asthma medications as directed by your healthcare provider?
+Respiratory Conditions,Asthma Medication Ratio,Did you follow your healthcare provider's recommendations for using asthma medications regularly to manage your symptoms?
+Cardiovascular Conditions,Controlling High Blood Pressure,Have you been consistently monitoring and managing your blood pressure as advised by your healthcare provider?
+Cardiovascular Conditions,Controlling High Blood Pressure,Did you take necessary steps recommended by your doctor to control and maintain your blood pressure within healthy limits?
+Cardiovascular Conditions,Persistence of Beta-Blocker Treatment After a Heart Attack,Have you consistently continued the prescribed beta-blocker medication after experiencing a heart attack as recommended by your healthcare provider?
+Cardiovascular Conditions,Persistence of Beta-Blocker Treatment After a Heart Attack,Did you adhere to your doctor's advice regarding the ongoing use of beta-blockers following your heart attack for heart health management?
+Cardiovascular Conditions,Statin Therapy for Patients With Cardiovascular Disease,Are you currently taking statin medications as prescribed by your healthcare provider for managing your cardiovascular disease?
+Cardiovascular Conditions,Statin Therapy for Patients With Cardiovascular Disease,Did you follow your doctor's recommendation to use statin therapy as part of your treatment plan for your cardiovascular condition?
+Cardiovascular Conditions,Cardiac Rehabilitation,Have you participated in any cardiac rehabilitation programs or activities as advised by your healthcare provider after your cardiac event or procedure?
+Cardiovascular Conditions,Cardiac Rehabilitation,Did you follow your doctor's recommendation to engage in cardiac rehabilitation programs or activities for your heart health recovery?
+Diabetes,Hemoglobin A1c Control for Patients With Diabetes,Have you maintained consistent efforts to manage your Hemoglobin A1c levels within the recommended target range as suggested by your healthcare provider?
+Diabetes,Hemoglobin A1c Control for Patients With Diabetes,Did you follow your healthcare provider's guidance and treatment plan to control and regulate your Hemoglobin A1c levels for diabetes management?
+Diabetes,Blood Pressure Control for Patients With Diabetes,Have you consistently monitored and managed your blood pressure levels as recommended by your healthcare provider for diabetes management?
+Diabetes,Blood Pressure Control for Patients With Diabetes,Did you follow your healthcare provider's advice and take necessary measures to maintain healthy blood pressure levels while managing diabetes?
+Diabetes,Eye Exam for Patients With Diabetes,Have you undergone regular eye examinations as recommended by your healthcare provider for managing diabetes-related eye health?
+Diabetes,Eye Exam for Patients With Diabetes,Did you follow your healthcare provider's advice to schedule routine eye exams for monitoring and maintaining your eye health due to diabetes?
+Diabetes,Kidney Health Evaluation for Patients With Diabetes,Have you undergone regular kidney health evaluations or screenings as recommended by your healthcare provider due to your diabetes diagnosis?
+Diabetes,Kidney Health Evaluation for Patients With Diabetes,Did you follow your healthcare provider's advice to undergo kidney health assessments or screenings for monitoring and maintaining your kidney function related to diabetes?
+Diabetes,Statin Therapy for Patients With Diabetes,Have you been prescribed statin therapy by your healthcare provider as part of your diabetes management?
+Diabetes,Statin Therapy for Patients With Diabetes,Did you follow your doctor's recommendation to use statin medications for managing your diabetes-related health concerns?
